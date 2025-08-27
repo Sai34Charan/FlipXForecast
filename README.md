@@ -1,6 +1,15 @@
-# FlipXForecast UNLOCK TIME AND WEATHER IN A TWIST!
+# FlipXForecast
+### UNLOCK TIME AND WEATHER IN A TWIST!
 
-![FlipXForecast Logo](logo-png.jpg)
+![FlipXForecast Logo](logo-png.png)
+
+## 🚀 Live Demo
+
+**Access the deployed version of the application here:**
+
+[**https://flipxforecast.streamlit.app/**](https://flipxforecast. streamlit.app/)
+
+---
 
 ## 📖 Project Description
 
